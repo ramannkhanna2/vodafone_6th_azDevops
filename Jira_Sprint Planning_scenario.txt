@@ -1,0 +1,79 @@
+Sprint Planning
+Sprint Duration: 2 weeks
+
+
+
+
+Goal for Sprint 1:
+Focus on setting up the foundational components of the application, including the user authentication and the initial task management functionalities.
+
+Work to Include in Sprint 1:
+
+Epic 1: User Authentication
+
+User Story: As a user, I want to be able to create an account so that I can log in and manage my tasks.
+Tasks:
+Design User Authentication Flow
+Develop User Registration API
+Implement Login Functionality
+
+
+Epic 2: Task Management (Initial Setup)
+
+User Story: As a user, I want to be able to create tasks so that I can manage my daily to-do list.
+Tasks:
+Create Task Model
+Develop Task Management API (Focus on task creation only)
+Goal for Sprint 2:
+Complete the task management functionality and focus on the UI/UX design.
+
+
+
+
+Work to Include in Sprint 2:
+
+Epic 2: Task Management (Completion)
+
+User Story: As a user, I want to be able to edit and delete tasks so that I can manage my daily to-do list.
+Tasks:
+Develop Task Management API (Focus on editing and deleting tasks)
+Implement Task List UI
+Epic 3: UI/UX Design
+
+User Story: As a user, I want the application to have an intuitive and visually appealing design.
+Tasks:
+Design Wireframes
+Create High-Fidelity Mockups
+Implement Frontend Styles
+Goal for Sprint 3:
+Conduct testing and prepare the application for release.
+
+
+
+
+
+
+Work to Include in Sprint 3:
+
+Epic 4: Testing & QA
+
+User Story: As a developer, I want to ensure that the application is bug-free.
+Tasks:
+Write Unit Tests
+Perform Integration Testing
+User Acceptance Testing (UAT)
+Final Touches
+
+Tasks:
+Address any UI/UX improvements based on feedback.
+Optimize application performance.
+Prepare for deployment.
+Sprint Retrospective and Review
+
+
+
+
+
+
+
+At the end of each sprint, hold a sprint review meeting to demonstrate the completed work to stakeholders and gather feedback. This is followed by a sprint retrospective to discuss what went well, what could be improved, and what actions can be taken for the next sprint.
