@@ -24,3 +24,15 @@ o	Git Basics and Commands
 o	Working with Remote Repositories
 o	Resolving Merge Conflicts and Handling Branching Strategies
 ```
+
+```
+Day 3: Continuous Integration and Continuous Deployment (CI/CD)
+•	Designing and Implementing CI/CD Pipelines
+o	Configuring Build Agents and Agent Pools
+o	Building and Packaging Applications
+o	Customizing and Extending Build Pipelines
+•	Release Management with Azure Pipelines
+o	Designing Release Pipelines
+o	Deploying to Different Environments
+o	Approvals and Gates in Release Pipelines
+```
