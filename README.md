@@ -36,3 +36,17 @@ o	Designing Release Pipelines
 o	Deploying to Different Environments
 o	Approvals and Gates in Release Pipelines
 ```
+
+```
+Day 4: Infrastructure as Code (IaC) with Terraform
+•	Introduction to Infrastructure as Code and Terraform
+o	What is Infrastructure as Code (IaC) and its Benefits?
+o	Overview of Terraform and its Architecture
+•	Terraform Basics and Core Concepts
+o	Terraform Installation and Setup
+o	Providers, Resources, Variables, Outputs
+o	Understanding Terraform Workflow: Init, Plan, Apply, Destroy
+•	Authoring Terraform Configurations for Azure
+o	Configuring Terraform Azure Provider
+o	Creating Simple Azure Resources (Resource Groups, Storage Accounts, VMs)
+```
